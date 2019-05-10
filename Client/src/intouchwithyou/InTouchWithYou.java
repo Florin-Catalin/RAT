@@ -25,7 +25,7 @@ import javafx.event.ActionEvent;
 
 /**
  *
- * @author Kriszta
+ * @author Florin
  */
 public class InTouchWithYou extends Application {
     
